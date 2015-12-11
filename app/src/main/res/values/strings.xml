@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MeLotto16</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="MeLottoTitle">MeLotto</string>
+    <string name="addTicket">Add Ticket</string>
+    <string name="viewTickets">View Tickets</string>
+    <string name="Calendar">Calendar</string>
+    <string name="Exit">Exit</string>
+    <string name="Welcome">Welcome, User</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_choose_lotto">Choose Lottery</string>
+    <string name="lotto_prompt">Select Lottery Type</string>
+    <string name="POWERBALL">POWERBALL</string>
+    <string name="MEGAMillions">MEGAMillions</string>
+    <string name="SuperLottoPlus">SuperLottoPlus</string>
+    <string name="Fantasy5">Fantasy5</string>
+    <string name="Daily4">Daily4</string>
+    <string name="Daily3">Daily3</string>
+    <string name="downloadLottery">Getting data from www.calottery.com ...</string>
+    <string name="title_activity_enter_info">Enter Ticket Information</string>
+    <string name="title_activity_add_ticket">Add Ticket</string>
+    <string name="title_activity_add_photo">Add Photo</string>
+    <string name="title_activity_view">View Tickets</string>
+    <string name="Logout">logout</string>
+    <string name="home">home</string>
+    <string name="title_activity_view_calendar">ViewCalendar</string>
+</resources>

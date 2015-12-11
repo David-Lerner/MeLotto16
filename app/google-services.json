@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "melotto-1106",
+    "project_number": "585482230890",
+    "name": "MeLotto"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585482230890:android:a4f6c3b0631c7a9f",
+        "client_id": "android:com.cmpe131.melotto16",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.cmpe131.melotto16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585482230890-5njomcklfdc2vp2g915705phf19e3smf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cmpe131.melotto16",
+            "certificate_hash": "E6E96D0D683461E9021D2DF8B9DAF774134FA959"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
